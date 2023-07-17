@@ -1,0 +1,17 @@
+C:\Users\Fabiano\OneDrive\Área de Trabalho\Desafio.NET\Teste04\bin\Debug\net6.0-windows\Teste04.exe
+C:\Users\Fabiano\OneDrive\Área de Trabalho\Desafio.NET\Teste04\bin\Debug\net6.0-windows\Teste04.deps.json
+C:\Users\Fabiano\OneDrive\Área de Trabalho\Desafio.NET\Teste04\bin\Debug\net6.0-windows\Teste04.runtimeconfig.json
+C:\Users\Fabiano\OneDrive\Área de Trabalho\Desafio.NET\Teste04\bin\Debug\net6.0-windows\Teste04.dll
+C:\Users\Fabiano\OneDrive\Área de Trabalho\Desafio.NET\Teste04\bin\Debug\net6.0-windows\Teste04.pdb
+C:\Users\Fabiano\OneDrive\Área de Trabalho\Desafio.NET\Teste04\obj\Debug\net6.0-windows\Teste04.csproj.AssemblyReference.cache
+C:\Users\Fabiano\OneDrive\Área de Trabalho\Desafio.NET\Teste04\obj\Debug\net6.0-windows\Teste04.Form1.resources
+C:\Users\Fabiano\OneDrive\Área de Trabalho\Desafio.NET\Teste04\obj\Debug\net6.0-windows\Teste04.csproj.GenerateResource.cache
+C:\Users\Fabiano\OneDrive\Área de Trabalho\Desafio.NET\Teste04\obj\Debug\net6.0-windows\Teste04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabiano\OneDrive\Área de Trabalho\Desafio.NET\Teste04\obj\Debug\net6.0-windows\Teste04.AssemblyInfoInputs.cache
+C:\Users\Fabiano\OneDrive\Área de Trabalho\Desafio.NET\Teste04\obj\Debug\net6.0-windows\Teste04.AssemblyInfo.cs
+C:\Users\Fabiano\OneDrive\Área de Trabalho\Desafio.NET\Teste04\obj\Debug\net6.0-windows\Teste04.csproj.CoreCompileInputs.cache
+C:\Users\Fabiano\OneDrive\Área de Trabalho\Desafio.NET\Teste04\obj\Debug\net6.0-windows\Teste04.dll
+C:\Users\Fabiano\OneDrive\Área de Trabalho\Desafio.NET\Teste04\obj\Debug\net6.0-windows\refint\Teste04.dll
+C:\Users\Fabiano\OneDrive\Área de Trabalho\Desafio.NET\Teste04\obj\Debug\net6.0-windows\Teste04.pdb
+C:\Users\Fabiano\OneDrive\Área de Trabalho\Desafio.NET\Teste04\obj\Debug\net6.0-windows\Teste04.genruntimeconfig.cache
+C:\Users\Fabiano\OneDrive\Área de Trabalho\Desafio.NET\Teste04\obj\Debug\net6.0-windows\ref\Teste04.dll
